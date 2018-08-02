@@ -1,0 +1,51 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech(Computer Science & Engineering)",
+      "institute":"Siddartha College of Engineering",
+      "data":["2015-19","75%"]
+    },
+    {
+      "degree":"Intermediate(M.P.C)",
+      "institute":"Sri surya junior College",
+      "data":["2013-15","98%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Vasishta vidhyalaya",
+      "data":["2012-13","98%"]
+    }
+  ],
+  "skills":[
+    {
+      "title":"Programming Languages",
+      "set":["java","C","Python","C++"]
+    },
+    {
+      "title":"Web Technologies",
+      "set":["HTML","CSS","PHP","JavaScript"]
+    },
+    {
+      "title":"Data Bases",
+      "set":["Sql","mysql","oracle","Nosql"]
+    },
+    {
+      "title":"operating Systems",
+      "set":["windows","DOS","Linux","Mac"]
+    }
+  ],
+  "achievements":[
+    {
+      "achievedData":"Got First Prize in PPT presentation."
+    },
+    {
+      "achievedData":"Got First Prize in Technical Quiz."
+    },
+    {
+      "achievedData":"Got First Prize in Tennis."
+    }
+  ]
+}
